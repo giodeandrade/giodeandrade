@@ -11,7 +11,7 @@
   <img align="center" alt="GIO-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="GIO-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="GIO-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/media/FGqEaWcXoAsjPeh?format=jpg&name=large">
+   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="">
 </div>
 
 ##
