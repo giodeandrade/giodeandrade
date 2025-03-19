@@ -77,7 +77,7 @@ My name is Giovana de Andrade. I'm 23 years old, and my homeland is Rio de Janei
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="![Giovana's GitHub stats](https://github-readme-stats.vercel.app/api?username=giodeandrade&show_icons=true&theme=transparent&include_all_commits=true)" 
+    src="https://github-readme-stats.vercel.app/api?username=giodeandrade&show_icons=true&theme=tokyonight&include_all_commits=true" 
   />
 
 <img 
@@ -86,5 +86,4 @@ My name is Giovana de Andrade. I'm 23 years old, and my homeland is Rio de Janei
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=giodeandrade&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
