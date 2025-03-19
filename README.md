@@ -71,7 +71,7 @@ My name is Giovana de Andrade. I'm 23 years old, and my homeland is Rio de Janei
 
 ### 📊 Estatísticas
 
-<p>
+<p align="center">
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -79,11 +79,10 @@ My name is Giovana de Andrade. I'm 23 years old, and my homeland is Rio de Janei
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=giodeandrade&show_icons=true&theme=tokyonight&include_all_commits=true" 
   />
-
-<img 
-      align="right" 
-      alt="GitHub Stats" 
-      height="190" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=giodeandrade&theme=tokyonight&layout=compact&langs_count=5" 
+  <img 
+    align="right" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=giodeandrade&theme=tokyonight&layout=compact&langs_count=5" 
   />
 </p>
