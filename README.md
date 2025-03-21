@@ -23,7 +23,7 @@ My name is Giovana de Andrade. I'm 23 years old, and my homeland is Rio de Janei
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <img 
     align="left" 
