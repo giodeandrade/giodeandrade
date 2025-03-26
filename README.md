@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Giovana Andrade
 
-**`Data Analyst`**
+**`Full-stack Development and Cloud Computing`**
 
-My name is Giovana de Andrade. I'm 23 years old, and my homeland is Rio de Janeiro. I have a Bachelor's Degree in Journalism, but I'm currently studying Systems Analysis and Development. I'm passionate about technology and communication, so I want to combine the two areas.
+At 23 years old, I proudly call Rio de Janeiro my home. I am currently pursuing my studies in Systems Analysis and Development while holding a bachelor's degree in Journalism. My passion for technology and communication drives me, and I am excited about the possibilities that full-stack development and cloud computing bring to the future.
 
 <p align="left">    
     <a href="https://github.com/giodeandrade?tab=repositories&sort=stargazers">
