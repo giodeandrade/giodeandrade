@@ -2,7 +2,7 @@
 
 **`Data Analyst`**
 
-My name is Giovana de Andrade. I'm 23 years old, and my homeland is Rio de Janeiro. I have a Bachelor's Degree in Journalism, but I'm currently studying Data Analysis. I'm passionate about technology and communication, so I want to combine the two areas.
+My name is Giovana de Andrade. I'm 23 years old, and my homeland is Rio de Janeiro. I have a Bachelor's Degree in Journalism, but I'm currently studying Systems Analysis and Development. I'm passionate about technology and communication, so I want to combine the two areas.
 
 <p align="left">    
     <a href="https://github.com/giodeandrade?tab=repositories&sort=stargazers">
