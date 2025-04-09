@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Giovana Andrade
 
-**`Full-stack Development and Cloud Computing`**
+**`Cybersecurity, AppSec and Web Development`**
 
-At 23 years old, I proudly call Rio de Janeiro my home. I am currently pursuing my studies in Systems Analysis and Development while holding a bachelor's degree in Journalism. My passion for technology and communication drives me, and I am excited about the possibilities that full-stack development and cloud computing bring to the future.
+At 23 years old, I proudly call Rio de Janeiro my home. I am currently pursuing my studies in Systems Analysis and Development while holding a bachelor's degree in Journalism. My passion for technology and communication drives me, and I am excited about the possibilities that cybersecurity and web development bring to the future.
 
 <p align="left">    
     <a href="https://github.com/giodeandrade?tab=repositories&sort=stargazers">
