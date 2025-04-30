@@ -8,8 +8,6 @@ I am actively pursuing the Google Cybersecurity Certificate and am enthusiastic 
 
 ## Skills
 
-## Skills
-
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Cybersecurity Fundamentals                    | <a href="">Detection Lab</a> |
