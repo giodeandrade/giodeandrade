@@ -1,11 +1,3 @@
-<h1 align="left">Hey 👋 My name is Giovana de Andrade</h1>
-
-###
-
-<p align="left">At 24 years old, I am pursuing a degree in Systems Analysis and Development at Veiga de Almeida University. My passion for developing creative solutions that effectively address problems motivates me.</p>
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
